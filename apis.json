@@ -1,0 +1,78 @@
+{
+    "name": "OpenFIGI",
+    "description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
+    "tags": [
+        "dataset",
+        "financial",
+        "have api",
+        "market data",
+        "portfolio management",
+        "profile",
+        "risk management",
+        "standards"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openfigi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Coherent Data Adapter: OpenFIGI Client Edition",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
+            "humanURL": "https:\/\/openfigi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coherent-data-adapter-openfigi-client-edition-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/www.openfigi.com\/feedback"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.openfigi.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@openfigi.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/www.openfigi.com\/docs\/faqs"
+        },
+        {
+            "type": "Login",
+            "url": "https:\/\/www.openfigi.com\/user\/login"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.openfigi.com\/docs\/privacy-policy"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "https:\/\/www.openfigi.com\/api#rate-limit"
+        },
+        {
+            "type": "Self-Service Registration",
+            "url": "https:\/\/www.openfigi.com\/user\/signup"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.openfigi.com\/docs\/terms-of-service"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/openfigi.com"
+        }
+    ]
+}
